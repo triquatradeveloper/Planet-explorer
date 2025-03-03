@@ -16,3 +16,7 @@ Planet Explorer 3D is an interactive Python application that lets you explore pl
 1. **Clone the Repository or Download the Code:**
    ```bash
    git clone https://github.com/your_username/planet-explorer-3d.git
+
+1. **pips instal:**
+   ```bash
+   pip install pygame PyOpenGL PyOpenGL_accelerate
