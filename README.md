@@ -25,8 +25,8 @@
    ```bash
    git clone https://github.com/yourusername/planet-explorer.git
    cd planet-explorer
-1. **Clone the Repository** 🐙
+1. **installation** 🐙
 
    ```bash
-  pip install pygame PyOpenGL PyOpenGL_accelerate
+    pip install pygame PyOpenGL PyOpenGL_accelerate
 
